@@ -55,7 +55,7 @@
 
 Version skipped to match upstream.
 
-## 6.0.1 - 2023-03-dd
+## 6.0.1 - 2023-03-17
 
 ### Fixed
 - Fix bug with option overrides for verifying presentations.
