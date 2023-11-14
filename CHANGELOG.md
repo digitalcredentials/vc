@@ -55,7 +55,7 @@
 
 Version skipped to match upstream.
 
-## 6.2.0 - 2023-11-dd
+## 6.2.0 - 2023-11-14
 
 ### Added
 - Allow `credentialStatus` arrays in credential status check.
