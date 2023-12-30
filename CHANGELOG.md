@@ -1,6 +1,13 @@
 # @digitalcredentials/vc ChangeLog
 
+## 7.0.0 -
+
+### Changed
+- Update `vc-status-list` to 7.0+.
+- **BREAKING**: Update to latest `jsonld` library.
+
 ## 6.0.0 - 2023-06-16
+
 ### Changed
 - **BREAKING**: Add a fallback/override for legacy OBv3 VCs.
 

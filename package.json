@@ -13,14 +13,12 @@
     "lib/**/*.js"
   ],
   "dependencies": {
-    "@digitalbazaar/vc-status-list": "^7.0.0",
     "@digitalcredentials/ed25519-signature-2020": "^3.0.2",
-    "@digitalcredentials/jsonld": "^6.0.0",
-    "@digitalcredentials/jsonld-signatures": "^9.3.2",
+    "@digitalcredentials/jsonld-signatures": "digitalcredentials/jsonld-signatures#v10.x",
     "@digitalcredentials/open-badges-context": "^2.0.1",
-    "@digitalcredentials/vc-status-list": "^5.0.2",
     "credentials-context": "^2.0.0",
-    "fix-esm": "^1.0.1"
+    "fix-esm": "^1.0.1",
+    "jsonld": "digitalcredentials/jsonld.js#update"
   },
   "devDependencies": {
     "@babel/core": "^7.13.8",
@@ -31,6 +29,7 @@
     "@digitalbazaar/ed25519-signature-2018": "^2.0.1",
     "@digitalbazaar/ed25519-verification-key-2018": "^3.0.0",
     "@digitalcredentials/security-document-loader": "^3.1.0",
+    "@digitalcredentials/vc-status-list": "^7.2.0",
     "babel-loader": "^8.2.2",
     "chai": "^4.3.3",
     "cross-env": "^7.0.3",
