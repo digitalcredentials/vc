@@ -15,6 +15,7 @@
   "dependencies": {
     "@digitalcredentials/ed25519-signature-2020": "^3.0.2",
     "@digitalcredentials/jsonld-signatures": "digitalcredentials/jsonld-signatures#v10.x",
+    "@interop/did-web-resolver": "interop-alliance/did-web-resolver#update",
     "@digitalcredentials/open-badges-context": "^2.0.1",
     "credentials-context": "^2.0.0",
     "fix-esm": "^1.0.1",
