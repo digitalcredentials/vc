@@ -26,8 +26,8 @@
     "LICENSE"
   ],
   "dependencies": {
-    "@digitalbazaar/credentials-v2-context": "github:digitalbazaar/credentials-v2-context",
-    "@digitalcredentials/jsonld-signatures": "github:digitalcredentials/jsonld-signatures#add-derive-function-and-pass-proof-set",
+    "@digitalbazaar/credentials-v2-context": "digitalbazaar/credentials-v2-context#main",
+    "@digitalcredentials/jsonld-signatures": "digitalcredentials/jsonld-signatures#add-derive-function-and-pass-proof-set",
     "@digitalcredentials/open-badges-context": "^2.1.0",
     "credentials-context": "^2.0.0",
     "ed25519-signature-2018-context": "^1.1.0",
