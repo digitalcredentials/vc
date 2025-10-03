@@ -1,5 +1,11 @@
 # @digitalcredentials/vc ChangeLog
 
+## 10.0.1
+
+### Changed
+- Add a parameter to `createPresentation` to allow VC verification to be optional.
+  Addresses issue #32. Does not change current default behavior.
+
 ## 10.0.0 - 2025-04-30
 
 ### Changed
