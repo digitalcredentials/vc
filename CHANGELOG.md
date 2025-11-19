@@ -1,5 +1,10 @@
 # @digitalcredentials/vc ChangeLog
 
+## 10.0.2 - 2025-11-19
+
+### Changed
+- Fix `createPresentation` throwing expiration error when `verify: false`.
+
 ## 10.0.1 - 2025-10-02
 
 ### Changed
