@@ -55,7 +55,7 @@ the following:
 To install from NPM:
 
 ```
-npm install @digitalbazaar/vc
+npm install @digitalcredentials/vc
 ```
 
 To install locally (for development):
@@ -130,7 +130,7 @@ Pre-requisites:
   Document and Public Key
 
 ```js
-import * as vc from '@digitalbazaar/vc';
+import * as vc from '@digitalcredentials/vc';
 import * as ecdsaSd2023Cryptosuite from
   '@digitalbazaar/ecdsa-sd-2023-cryptosuite';
 import {DataIntegrityProof} from '@digitalbazaar/data-integrity';
@@ -190,7 +190,7 @@ Pre-requisites:
 * If you're using a custom `@context`, make sure it's resolvable
 
 ```js
-import * as vc from '@digitalbazaar/vc';
+import * as vc from '@digitalcredentials/vc';
 import * as ecdsaSd2023Cryptosuite from
   '@digitalbazaar/ecdsa-sd-2023-cryptosuite';
 import {DataIntegrityProof} from '@digitalbazaar/data-integrity';
@@ -520,8 +520,6 @@ npm run test-karma
 ```
 
 ## Contribute
-
-See [the contribute file](https://github.com/digitalbazaar/bedrock/blob/master/CONTRIBUTING.md)!
 
 PRs accepted.
 
